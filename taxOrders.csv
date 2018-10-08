@@ -1,0 +1,230 @@
+"species","scientifics","Size","wearRate","slope","slopeSE","slopeP","N","taxOrder","types","Metal","slopeT"
+"Australian Wood Duck","Chenonetta jubata","10",0.096,-0.023,0.004,0.000,19,392,"10 AM","AM",-5.653
+"Pacific Black Duck","Anas superciliosa","11",0.019,-0.030,0.004,0.000,60,435,"11 AM","AM",-7.872
+"Nankeen Night Heron","Nycticorax caledonicus","11",0.141,"NA","NA","NA",2,2228,"11 AM","AM","NA"
+"Cattle Egret","Bubulcus coromandus","10",0.100,-0.003,0.001,0.014,58,2283,"10 AM","AM",-2.525
+"Eastern Great Egret","Ardea alba","11",-0.001,"NA","NA","NA",1,2308,"11 AM","AM","NA"
+"Intermediate Egret","Ardea intermedia","10",0.067,-0.005,0.002,0.085,4,2313,"10 AM","AM",-3.210
+"Masked Booby","Sula dactylatra","13",0.002,0.020,0.036,0.621,5,2400,"13 AM","AM",0.550
+"Little Pied Cormorant","Microcarbo melanoleucos","11",-0.019,"NA","NA","NA",1,2417,"11 AM","AM","NA"
+"Wedge-tailed Eagle","Aquila audax","15",-0.004,"NA","NA","NA",1,2784,"15 AM","AM","NA"
+"Brown Goshawk","Accipiter fasciatus","10",0.001,"NA","NA","NA",1,2898,"10 AM","AM","NA"
+"Whistling Kite","Haliastur sphenurus","11",-0.011,"NA","NA","NA",2,3043,"11 AM","AM","NA"
+"Silver Gull","Chroicocephalus novaehollandiae",8,0.062,-0.037,0.061,0.600,4,4464,"8 AM","AM",-0.616
+"Crested Tern","Thalasseus bergii",7,0.041,-0.023,0.003,0.000,32,4568,"7 AM","AM",-7.782
+"Spotted Turtle-Dove","Spilopelia chinensis",8,-0.016,"NA","NA","NA",2,4979,"8 AM","AM","NA"
+"Laughing Turtle-Dove","Spilopelia senegalensis",7,-0.028,"NA","NA","NA",2,4985,"7 AM","AM","NA"
+"Crested Pigeon","Ocyphaps lophotes",8,-0.013,-0.015,0.003,0.005,6,5104,"8 AM","AM",-5.584
+"Wonga Pigeon","Leucosarcia melanoleuca","10",0.098,"NA","NA","NA",2,5124,"10 AM","AM","NA"
+"Bar-shouldered Dove","Geopelia humeralis",8,-0.028,"NA","NA","NA",3,5138,"8 AM","AM","NA"
+"Southern Boobook","Ninox novaeseelandiae","11",-0.008,"NA","NA","NA",1,6856,"11 AM","AM","NA"
+"Tawny Frogmouth","Podargus strigoides","10",0.003,"NA","NA","NA",1,6980,"10 AM","AM","NA"
+"Sacred Kingfisher","Todiramphus sanctus",5,0.009,"NA","NA","NA",2,9155,"5 AM","AM","NA"
+"Tawny-crowned Honeyeater","Gliciphila melanops",2,-0.068,"NA","NA","NA",1,16779,"2 AM","AM","NA"
+"New Holland Honeyeater","Phylidonyris novaehollandiae",3,0.034,"NA","NA","NA",3,16865,"3 AM","AM","NA"
+"Noisy Friarbird","Philemon corniculatus",7,0.036,"NA","NA","NA",1,16934,"7 AM","AM","NA"
+"White-naped Honeyeater","Melithreptus lunatus",2,0.033,"NA","NA","NA",1,16959,"2 AM","AM","NA"
+"Spiny-cheeked Honeyeater","Acanthagenys rufogularis",5,0.025,"NA","NA","NA",1,17015,"5 AM","AM","NA"
+"Red Wattlebird","Anthochaera carunculata",7,0.045,-0.026,0.004,0.001,7,17022,"7 AM","AM",-6.473
+"Yellow-faced Honeyeater","Caligavis chrysops",2,0.015,"NA","NA","NA",3,17034,"2 AM","AM","NA"
+"Yellow-throated Miner","Manorina flavigula",5,0.050,-0.027,0.014,0.155,5,17061,"5 AM","AM",-1.894
+"Singing Honeyeater","Gavicalis virescens",3,0.017,"NA","NA","NA",1,17111,"3 AM","AM","NA"
+"White-plumed Honeyeater","Ptilotula penicillata",2,-0.033,-0.031,0.001,0.000,5,17130,"2 AM","AM",-20.917
+"White-browed Scrubwren","Sericornis frontalis",2,0.032,"NA","NA","NA",3,17306,"2 AM","AM","NA"
+"White-browed Babbler","Pomatostomus superciliosus",5,0.127,"NA","NA","NA",2,17495,"5 AM","AM","NA"
+"Grey Currawong","Strepera versicolor","10",0.025,-0.076,0.034,0.156,4,18103,"10 AM","AM",-2.224
+"Rufous Whistler","Pachycephala rufiventris",3,0.072,"NA","NA","NA",1,18699,"3 AM","AM","NA"
+"Grey Shrike-thrush","Colluricincla harmonica",5,0.051,"NA","NA","NA",3,18762,"5 AM","AM","NA"
+"Sooty Thicket-Fantail","Rhipidura threnothorax",2,0.025,"NA","NA","NA",1,19483,"2 AM","AM","NA"
+"Spectacled Monarch","Symposiachrus trivirgatus",2,0.004,"NA","NA","NA",1,19763,"2 AM","AM","NA"
+"Little Crow","Corvus bennetti","10",0.062,"NA","NA","NA",1,20322,"10 AM","AM","NA"
+"Australian Raven","Corvus coronoides","10",0.042,"NA","NA","NA",2,20327,"10 AM","AM","NA"
+"Apostlebird","Struthidea cinerea",7,0.051,"NA","NA","NA",1,20357,"7 AM","AM","NA"
+"Eastern Yellow Robin","Eopsaltria australis",2,0.006,"NA","NA","NA",2,20550,"2 AM","AM","NA"
+"Common Starling","Sturnus vulgaris",5,0.054,"NA","NA","NA",3,26507,"5 AM","AM","NA"
+"House Sparrow","Passer domesticus",3,0.048,"NA","NA","NA",3,28987,"3 AM","AM","NA"
+"Common Myna","Acridotheres tristis",7,0.054,"NA","NA","NA",2,46461,"7 AM","AM","NA"
+"Little Tern","Sternula albifrons",4,0.127,"NA","NA","NA",1,4584,"4 AY","AY","NA"
+"Bridled Tern","Onychoprion anaethetus",6,-0.002,0.002,0.009,0.868,4,4603,"6 AY","AY",0.188
+"Peaceful Dove","Geopelia striata",6,-0.004,"NA","NA","NA",1,5132,"6 AY","AY","NA"
+"Peaceful Dove","Geopelia striata",5,-0.061,0.003,0.019,0.869,6,5132,"5 AY","AY",0.175
+"Australian Owlet-nightjar","Aegotheles cristatus",5,-0.078,"NA","NA","NA",1,7344,"5 AY","AY","NA"
+"Sacred Kingfisher","Todiramphus sanctus",5,-0.018,"NA","NA","NA",3,9155,"5 AY","AY","NA"
+"Brown Treecreeper","Climacteris picumnus",4,0.064,"NA","NA","NA",1,16579,"4 AY","AY","NA"
+"Variegated Fairy-wren","Malurus lamberti",1,0.066,"NA","NA","NA",1,16600,"1 AY","AY","NA"
+"Superb Fairy-wren","Malurus cyaneus",1,0.091,-0.050,0.013,0.003,12,16608,"1 AY","AY",-3.963
+"Red-backed Fairy-wren","Malurus melanocephalus",1,0.085,"NA","NA","NA",2,16630,"1 AY","AY","NA"
+"Eastern Spinebill","Acanthorhynchus tenuirostris",1,0.132,-0.033,0.007,0.003,9,16805,"1 AY","AY",-4.560
+"Brown Honeyeater","Lichmera indistincta",2,0.273,-0.001,0.010,0.940,4,16842,"2 AY","AY",-0.085
+"Brown Honeyeater","Lichmera indistincta",1,0.099,"NA","NA","NA",2,16842,"1 AY","AY","NA"
+"Crescent Honeyeater","Phylidonyris pyrrhoptera",2,0.157,"NA","NA","NA",1,16862,"2 AY","AY","NA"
+"New Holland Honeyeater","Phylidonyris novaehollandiae",3,0.044,-0.047,0.003,0.000,42,16865,"3 AY","AY",-14.609
+"White-cheeked Honeyeater","Phylidonyris niger",3,0.097,"NA","NA","NA",2,16871,"3 AY","AY","NA"
+"White-naped Honeyeater","Melithreptus lunatus",2,0.111,"NA","NA","NA",3,16959,"2 AY","AY","NA"
+"Gilbert's Honeyeater","Melithreptus chloropsis",3,0.018,"NA","NA","NA",1,16960,"3 AY","AY","NA"
+"Spiny-cheeked Honeyeater","Acanthagenys rufogularis",5,-0.358,"NA","NA","NA",1,17015,"5 AY","AY","NA"
+"Little Wattlebird","Anthochaera chrysoptera",6,-0.024,-0.091,0.050,0.111,9,17017,"6 AY","AY",-1.826
+"Red Wattlebird","Anthochaera carunculata",6,-0.181,"NA","NA","NA",1,17022,"6 AY","AY","NA"
+"Yellow-faced Honeyeater","Caligavis chrysops",2,0.124,-0.037,0.006,0.023,4,17034,"2 AY","AY",-6.488
+"Bell Miner","Manorina melanophrys",4,0.060,"NA","NA","NA",1,17056,"4 AY","AY","NA"
+"Noisy Miner","Manorina melanocephala",6,-0.298,-0.046,0.011,0.001,14,17057,"6 AY","AY",-4.290
+"Singing Honeyeater","Gavicalis virescens",3,0.019,-0.008,0.006,0.253,8,17111,"3 AY","AY",-1.263
+"Yellow-plumed Honeyeater","Ptilotula ornata",2,0.192,"NA","NA","NA",1,17129,"2 AY","AY","NA"
+"White-plumed Honeyeater","Ptilotula penicillata",3,0.054,"NA","NA","NA",1,17130,"3 AY","AY","NA"
+"White-plumed Honeyeater","Ptilotula penicillata",2,-0.028,-0.033,0.009,0.007,11,17130,"2 AY","AY",-3.514
+"Spotted Pardalote","Pardalotus punctatus",1,0.103,"NA","NA","NA",1,17212,"1 AY","AY","NA"
+"Striated Pardalote","Pardalotus striatus",1,0.014,"NA","NA","NA",1,17220,"1 AY","AY","NA"
+"White-browed Scrubwren","Sericornis frontalis",2,0.040,-0.030,0.010,0.027,7,17306,"2 AY","AY",-3.086
+"Large-billed Scrubwren","Sericornis magnirostra",1,0.365,"NA","NA","NA",1,17324,"1 AY","AY","NA"
+"Weebill","Smicrornis brevirostris",1,0.545,"NA","NA","NA",2,17354,"1 AY","AY","NA"
+"Brown Thornbill","Acanthiza pusilla",1,0.429,"NA","NA","NA",2,17436,"1 AY","AY","NA"
+"Yellow-rumped Thornbill","Acanthiza chrysorrhoa",1,0.084,"NA","NA","NA",2,17463,"1 AY","AY","NA"
+"Striated Thornbill","Acanthiza lineata",1,0.015,-0.046,0.016,0.104,4,17473,"1 AY","AY",-2.852
+"White-browed Babbler","Pomatostomus superciliosus",5,0.102,-0.097,0.008,0.007,4,17495,"5 AY","AY",-12.147
+"Eastern Whipbird","Psophodes olivaceus",6,0.071,-0.028,0.026,0.368,5,17595,"6 AY","AY",-1.056
+"Black-faced Woodswallow","Artamus cinereus",5,-0.147,"NA","NA","NA",1,18042,"5 AY","AY","NA"
+"Dusky Woodswallow","Artamus cyanopterus",4,-0.014,"NA","NA","NA",1,18048,"4 AY","AY","NA"
+"Grey Butcherbird","Cracticus torquatus",6,-0.003,"NA","NA","NA",1,18064,"6 AY","AY","NA"
+"Golden Whistler","Pachycephala pectoralis",3,0.067,"NA","NA","NA",1,18631,"3 AY","AY","NA"
+"Western Whistler","Pachycephala occidentalis",3,0.016,"NA","NA","NA",1,18638,"3 AY","AY","NA"
+"Grey Shrike-thrush","Colluricincla harmonica",5,-0.050,"NA","NA","NA",2,18762,"5 AY","AY","NA"
+"Olive-backed Oriole","Oriolus sagittatus",6,0.071,"NA","NA","NA",1,19197,"6 AY","AY","NA"
+"Willie Wagtail","Rhipidura leucophrys",3,0.031,"NA","NA","NA",3,19446,"3 AY","AY","NA"
+"Grey Fantail","Rhipidura albiscapa",1,0.051,"NA","NA","NA",3,19501,"1 AY","AY","NA"
+"Magpie-lark","Grallina cyanoleuca",6,0.010,"NA","NA","NA",3,19856,"6 AY","AY","NA"
+"Eastern Yellow Robin","Eopsaltria australis",2,0.736,"NA","NA","NA",1,20550,"2 AY","AY","NA"
+"Western Yellow Robin","Eopsaltria griseogularis",2,0.009,"NA","NA","NA",1,20553,"2 AY","AY","NA"
+"White-breasted Robin","Eopsaltria georgiana",2,0.020,"NA","NA","NA",2,20556,"2 AY","AY","NA"
+"Hooded Robin","Melanodryas cucullata",2,-0.594,"NA","NA","NA",1,20558,"2 AY","AY","NA"
+"Scarlet Robin","Petroica boodang",1,0.078,"NA","NA","NA",2,20637,"1 AY","AY","NA"
+"Welcome Swallow","Hirundo neoxena",2,0.137,-0.004,0.008,0.588,8,22232,"2 AY","AY",-0.572
+"Fairy Martin","Petrochelidon ariel",1,0.191,"NA","NA","NA",1,22322,"1 AY","AY","NA"
+"Silvereye","Zosterops lateralis",1,0.114,-0.019,0.004,0.000,40,25312,"1 AY","AY",-4.294
+"Common Starling","Sturnus vulgaris",6,-0.030,-0.059,0.020,0.012,15,26507,"6 AY","AY",-2.918
+"White's Thrush","Zoothera dauma",6,0.158,"NA","NA","NA",1,26731,"6 AY","AY","NA"
+"Common Blackbird","Turdus merula",6,0.019,-0.046,0.009,0.000,36,26977,"6 AY","AY",-5.030
+"House Sparrow","Passer domesticus",3,0.031,-0.040,0.011,0.003,13,28987,"3 AY","AY",-3.726
+"Beautiful Firetail","Stagonopleura bella",2,0.038,"NA","NA","NA",1,29622,"2 AY","AY","NA"
+"Red-browed Finch","Neochmia temporalis",2,0.065,0.023,0.047,0.655,5,29634,"2 AY","AY",0.494
+"Red-browed Finch","Neochmia temporalis",1,0.112,"NA","NA","NA",3,29634,"1 AY","AY","NA"
+"Masked Finch","Poephila personata",2,-0.013,"NA","NA","NA",1,29646,"2 AY","AY","NA"
+"Double-barred Finch","Taenopygia bichenovii",1,0.104,"NA","NA","NA",3,29659,"1 AY","AY","NA"
+"European Goldfinch","Carduelis carduelis",2,0.016,"NA","NA","NA",2,30628,"2 AY","AY","NA"
+"Collared Sparrowhawk","Accipiter cirrocephalus",7,0.076,"NA","NA","NA",1,2952,"7 IN","IN","NA"
+"Bar-tailed Godwit","Limosa lapponica",7,0.278,"NA","NA","NA",3,4235,"7 IN","IN","NA"
+"Ruddy Turnstone","Arenaria interpres",5,0.015,"NA","NA","NA",1,4299,"5 IN","IN","NA"
+"Great Knot","Calidris tenuirostris",6,0.401,-0.004,0.006,0.572,5,4306,"6 IN","IN",-0.633
+"Red Knot","Calidris canutus",5,0.042,"NA","NA","NA",3,4307,"5 IN","IN","NA"
+"Crested Tern","Thalasseus bergii",7,0.111,"NA","NA","NA",3,4568,"7 IN","IN","NA"
+"Common Tern","Sterna hirundo",5,0.001,"NA","NA","NA",1,4629,"5 IN","IN","NA"
+"Sacred Kingfisher","Todiramphus sanctus",5,0.433,"NA","NA","NA",1,9155,"5 IN","IN","NA"
+"Noisy Friarbird","Philemon corniculatus",7,0.028,"NA","NA","NA",1,16934,"7 IN","IN","NA"
+"Red Wattlebird","Anthochaera carunculata",7,-0.139,"NA","NA","NA",2,17022,"7 IN","IN","NA"
+"Pied Butcherbird","Cracticus nigrogularis",7,0.122,"NA","NA","NA",2,18074,"7 IN","IN","NA"
+"Common Blackbird","Turdus merula",6,0.153,"NA","NA","NA",1,26977,"6 IN","IN","NA"
+"Cape Barren Goose","Cereopsis novaehollandiae","14",0.003,"NA","NA","NA",1,264,"14 ML","ML","NA"
+"Black Swan","Cygnus atratus","14",0.009,-0.005,0.001,0.000,29,318,"14 ML","ML",-5.323
+"White-faced Storm-Petrel","Pelagodroma marina",5,0.007,"NA","NA","NA",1,1702,"5 ML","ML","NA"
+"Wandering Albatross","Diomedea exulans","14",0.003,-0.003,0.001,0.001,10,1728,"14 ML","ML",-4.863
+"Wedge-tailed Shearwater","Ardenna pacifica","16",0.034,-0.028,0.003,0.011,4,1882,"16 ML","ML",-9.681
+"Short-tailed Shearwater","Ardenna tenuirostris","16",-0.001,-0.008,0.005,0.132,26,1885,"16 ML","ML",-1.559
+"Flesh-footed Shearwater","Ardenna carneipes","16",0.010,0.003,0.006,0.623,4,1887,"16 ML","ML",0.576
+"Pied Cormorant","Phalacrocorax varius","14",0.007,0.021,0.031,0.570,4,2457,"14 ML","ML",0.673
+"Magpie Goose","Anseranas semipalmata","13",-0.007,-0.004,0.001,0.028,6,243,"13 SS","SS",-3.373
+"Plumed Whistling-Duck","Dendrocygna eytoni","10",0.005,"NA","NA","NA",1,253,"10 SS","SS","NA"
+"Cape Barren Goose","Cereopsis novaehollandiae","15",-0.031,-0.003,0.000,0.000,36,264,"15 SS","SS",-5.489
+"Australian Shelduck","Tadorna tadornoides","12",0.043,-0.005,0.004,0.292,14,375,"12 SS","SS",-1.102
+"Australian Wood Duck","Chenonetta jubata","11",0.014,"NA","NA","NA",1,392,"11 SS","SS","NA"
+"Australian Wood Duck","Chenonetta jubata","10",-0.071,-0.008,0.002,0.005,15,392,"10 SS","SS",-3.392
+"Pacific Black Duck","Anas superciliosa","11",0.053,-0.003,0.002,0.194,29,435,"11 SS","SS",-1.332
+"Grey Teal","Anas gracilis",9,0.029,-0.002,0.003,0.471,18,463,"9 SS","SS",-0.738
+"Chestnut Teal","Anas castanea","10",0.018,"NA","NA","NA",1,466,"10 SS","SS","NA"
+"Chestnut Teal","Anas castanea",9,-0.002,-0.025,0.009,0.039,7,466,"9 SS","SS",-2.770
+"Musk Duck","Biziura lobata","13",0.031,"NA","NA","NA",1,586,"13 SS","SS","NA"
+"Little Penguin","Eudyptula minor","19",0.107,0.002,0.001,0.040,149,1676,"19 SS","SS",2.076
+"Black-browed Albatross","Thalassarche melanophris","12",0.015,"NA","NA","NA",1,1740,"12 SS","SS","NA"
+"Shy Albatross","Thalassarche cauta","13",0.003,"NA","NA","NA",1,1742,"13 SS","SS","NA"
+"Southern Giant-Petrel","Macronectes giganteus","13",-0.071,"NA","NA","NA",3,1784,"13 SS","SS","NA"
+"Northern Giant-Petrel","Macronectes halli","13",-0.006,"NA","NA","NA",2,1785,"13 SS","SS","NA"
+"Wedge-tailed Shearwater","Ardenna pacifica","16",-0.001,-0.003,0.001,0.000,48,1882,"16 SS","SS",-5.859
+"Short-tailed Shearwater","Ardenna tenuirostris","16",-0.006,-0.001,0.000,0.006,35,1885,"16 SS","SS",-2.932
+"Flesh-footed Shearwater","Ardenna carneipes","16",-0.015,-0.006,0.001,0.016,5,1887,"16 SS","SS",-4.925
+"Australian White Ibis","Threskiornis molucca","12",0.012,-0.010,0.001,0.000,24,2090,"12 SS","SS",-9.577
+"Straw-necked Ibis","Threskiornis spinicollis","12",0.004,-0.005,0.002,0.070,5,2093,"12 SS","SS",-2.761
+"Royal Spoonbill","Platalea regia","13",0.052,-0.001,0.001,0.390,4,2152,"13 SS","SS",-1.087
+"Nankeen Night Heron","Nycticorax caledonicus","11",0.003,"NA","NA","NA",2,2228,"11 SS","SS","NA"
+"White-necked Heron","Ardea pacifica","12",-0.022,"NA","NA","NA",1,2297,"12 SS","SS","NA"
+"Australasian Gannet","Morus serrator","13",-0.012,0.000,0.001,0.896,71,2392,"13 SS","SS",-0.132
+"Masked Booby","Sula dactylatra","13",-0.003,-0.002,0.003,0.356,24,2400,"13 SS","SS",-0.943
+"Brown Booby","Sula leucogaster","12",-0.004,-0.001,0.001,0.523,13,2410,"12 SS","SS",-0.660
+"Black-faced Cormorant","Phalacrocorax fuscescens","12",-0.013,-0.001,0.005,0.890,4,2454,"12 SS","SS",-0.157
+"Black-faced Cormorant","Phalacrocorax fuscescens","13",-0.003,-0.001,0.001,0.107,15,2454,"13 SS","SS",-1.730
+"Pied Cormorant","Phalacrocorax varius","13",0.006,0.000,0.000,0.706,22,2457,"13 SS","SS",-0.383
+"Eastern Osprey","Pandion cristatus","13",0.001,"NA","NA","NA",1,2532,"13 SS","SS","NA"
+"Little Eagle","Hieraaetus morphnoides","13",0.001,"NA","NA","NA",1,2763,"13 SS","SS","NA"
+"Caspian Tern","Hydroprogne caspia",9,-0.037,0.005,0.023,0.847,5,2763,"9 SS","SS",0.210
+"Wedge-tailed Eagle","Aquila audax","15",-0.004,"NA","NA","NA",3,2784,"15 SS","SS","NA"
+"Grey Goshawk","Accipiter novaehollandiae","27",-0.568,"NA","NA","NA",1,2874,"27 SS","SS","NA"
+"Grey Goshawk","Accipiter novaehollandiae","12",-0.016,"NA","NA","NA",1,2874,"12 SS","SS","NA"
+"Brown Goshawk","Accipiter fasciatus","11",0.444,"NA","NA","NA",1,2898,"11 SS","SS","NA"
+"Brown Goshawk","Accipiter fasciatus","10",0.005,-0.002,0.002,0.317,15,2898,"10 SS","SS",-1.041
+"Brown Goshawk","Accipiter fasciatus",9,-0.071,-0.025,0.008,0.040,6,2898,"9 SS","SS",-2.994
+"Collared Sparrowhawk","Accipiter cirrocephalus",9,0.403,"NA","NA","NA",1,2952,"9 SS","SS","NA"
+"Swamp Harrier","Circus approximans","11",-0.060,-0.007,0.006,0.344,4,3016,"11 SS","SS",-1.229
+"Black Kite","Milvus migrans","11",0.044,"NA","NA","NA",1,3033,"11 SS","SS","NA"
+"Whistling Kite","Haliastur sphenurus","11",0.003,"NA","NA","NA",3,3043,"11 SS","SS","NA"
+"Whistling Kite","Haliastur sphenurus","10",0.002,"NA","NA","NA",1,3043,"10 SS","SS","NA"
+"White-bellied Sea-Eagle","Haliaeetus leucogaster","15",-0.016,"NA","NA","NA",1,3050,"15 SS","SS","NA"
+"Lord Howe Woodhen","Gallirallus sylvestris","10",0.002,-0.006,0.003,0.059,24,3448,"10 SS","SS",-1.990
+"Dusky Moorhen","Gallinula tenebrosa","11",0.021,"NA","NA","NA",2,3741,"11 SS","SS","NA"
+"Eurasian Coot","Fulica atra","10",0.002,"NA","NA","NA",1,3758,"10 SS","SS","NA"
+"Brolga","Grus rubicunda","13",0.000,"NA","NA","NA",1,3808,"13 SS","SS","NA"
+"Pied Oystercatcher","Haematopus longirostris","10",-0.010,-0.006,0.002,0.006,23,3946,"10 SS","SS",-3.079
+"Masked Lapwing","Vanellus miles",8,0.125,"NA","NA","NA",1,4009,"8 SS","SS","NA"
+"Far Eastern Curlew","Numenius madagascariensis","10",-0.326,"NA","NA","NA",1,4260,"10 SS","SS","NA"
+"Great Knot","Calidris tenuirostris",6,0.075,"NA","NA","NA",2,4306,"6 SS","SS","NA"
+"Silver Gull","Chroicocephalus novaehollandiae",8,0.012,-0.007,0.005,0.224,13,4464,"8 SS","SS",-1.289
+"Pacific Gull","Larus pacificus","11",-0.003,-0.005,0.001,0.000,45,4498,"11 SS","SS",-4.663
+"Kelp Gull","Larus dominicanus","11",0.016,-0.014,0.001,0.000,92,4515,"11 SS","SS",-14.232
+"Spotted Turtle-Dove","Spilopelia chinensis",8,0.005,"NA","NA","NA",1,4979,"8 SS","SS","NA"
+"Crested Pigeon","Ocyphaps lophotes",8,-0.051,"NA","NA","NA",3,5104,"8 SS","SS","NA"
+"Channel-billed Cuckoo","Scythrops novaehollandiae","11",0.008,"NA","NA","NA",1,6080,"11 SS","SS","NA"
+"Masked Owl","Tyto novaehollandiae","13",0.033,"NA","NA","NA",1,6224,"13 SS","SS","NA"
+"Eastern Barn Owl","Tyto delicatula","10",0.000,"NA","NA","NA",1,6260,"10 SS","SS","NA"
+"Eastern Barn Owl","Tyto delicatula","27",-0.177,"NA","NA","NA",1,6260,"27 SS","SS","NA"
+"Eastern Barn Owl","Tyto delicatula","11",0.005,"NA","NA","NA",2,6260,"11 SS","SS","NA"
+"Barking Owl","Ninox connivens","13",-0.064,"NA","NA","NA",1,6838,"13 SS","SS","NA"
+"Southern Boobook","Ninox novaeseelandiae","11",0.086,-0.005,0.013,0.728,9,6856,"11 SS","SS",-0.362
+"Southern Boobook","Ninox novaeseelandiae","10",-0.051,"NA","NA","NA",3,6856,"10 SS","SS","NA"
+"Tawny Frogmouth","Podargus strigoides","10",-0.143,-0.006,0.006,0.414,11,6980,"10 SS","SS",-0.857
+"Tawny Frogmouth","Podargus strigoides",9,0.122,"NA","NA","NA",1,6980,"9 SS","SS","NA"
+"Laughing Kookaburra","Dacelo novaeguineae","20",0.007,-0.003,0.001,0.008,18,8989,"20 SS","SS",-3.050
+"Laughing Kookaburra","Dacelo novaeguineae",9,0.045,0.004,0.002,0.033,18,8989,"9 SS","SS",2.332
+"Nankeen Kestrel","Falco cenchroides",8,-0.044,"NA","NA","NA",2,11185,"8 SS","SS","NA"
+"Australian Hobby","Falco longipennis",9,-0.060,"NA","NA","NA",1,11248,"9 SS","SS","NA"
+"Brown Falcon","Falco berigora","11",0.000,"NA","NA","NA",3,11253,"11 SS","SS","NA"
+"Brown Falcon","Falco berigora","10",0.004,0.001,0.004,0.870,4,11253,"10 SS","SS",0.186
+"Black Falcon","Falco subniger","11",0.000,"NA","NA","NA",1,11257,"11 SS","SS","NA"
+"Peregrine Falcon","Falco peregrinus","12",0.005,-0.001,0.002,0.682,4,11272,"12 SS","SS",-0.475
+"Peregrine Falcon","Falco peregrinus","11",-0.027,-0.046,0.013,0.022,6,11272,"11 SS","SS",-3.628
+"Peregrine Falcon","Falco peregrinus","27",-0.023,0.001,0.000,0.019,4,11272,"27 SS","SS",7.192
+"Galah","Eolophus roseicapillus","20",0.066,-0.002,0.002,0.413,12,11332,"20 SS","SS",-0.853
+"Major Mitchell's Cockatoo","Lophochroa leadbeateri","21",0.004,"NA","NA","NA",3,11337,"21 SS","SS","NA"
+"Long-billed Corella","Cacatua tenuirostris","21",0.007,"NA","NA","NA",1,11341,"21 SS","SS","NA"
+"Little Corella","Cacatua sanguinea","21",0.000,"NA","NA","NA",2,11345,"21 SS","SS","NA"
+"Sulphur-crested Cockatoo","Cacatua galerita","22",0.088,"NA","NA","NA",2,11354,"22 SS","SS","NA"
+"Rainbow Lorikeet","Trichoglossus haematodus","25",-0.013,-0.005,0.003,0.048,50,12226,"25 SS","SS",-2.033
+"Noisy Pitta","Pitta versicolor",6,0.000,"NA","NA","NA",1,12543,"6 SS","SS","NA"
+"Satin Bowerbird","Ptilonorhynchus violaceus",9,-0.012,-0.024,0.006,0.025,5,16545,"9 SS","SS",-4.172
+"Red Wattlebird","Anthochaera carunculata",7,0.046,"NA","NA","NA",1,17022,"7 SS","SS","NA"
+"Noisy Miner","Manorina melanocephala",6,0.009,"NA","NA","NA",1,17057,"6 SS","SS","NA"
+"Australian Magpie","Gymnorhina tibicen","10",-0.379,"NA","NA","NA",1,18082,"10 SS","SS","NA"
+"Australian Magpie","Gymnorhina tibicen",9,0.027,-0.015,0.002,0.000,59,18082,"9 SS","SS",-9.768
+"Pied Currawong","Strepera graculina",9,0.004,-0.009,0.001,0.000,20,18092,"9 SS","SS",-9.545
+"Black Currawong","Strepera fuliginosa",9,-0.026,-0.011,0.001,0.001,5,18099,"9 SS","SS",-12.259
+"Grey Currawong","Strepera versicolor",9,0.003,"NA","NA","NA",1,18103,"9 SS","SS","NA"
+"Torresian Crow","Corvus orru cecilae","10",0.012,"NA","NA","NA",1,20317,"10 SS","SS","NA"
+"Little Crow","Corvus bennetti",9,0.012,"NA","NA","NA",1,20322,"9 SS","SS","NA"
+"Little Raven","Corvus mellori","10",0.038,-0.043,0.005,0.001,6,20326,"10 SS","SS",-9.484
+"Australian Raven","Corvus coronoides","10",-0.074,-0.020,0.001,0.000,8,20327,"10 SS","SS",-30.749
+"White-winged Chough","Corcorax melanorhamphos",9,0.027,"NA","NA","NA",2,20353,"9 SS","SS","NA"
