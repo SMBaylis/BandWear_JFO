@@ -2,12 +2,12 @@
 
 ### Authors
 
-Shane M. Baylis 
-David Drynan 
-Naomi Clarke 
-Michelle Van 
-Paul Sunnucks 
-Rohan H. Clarke
+Shane M. Baylis, 
+David Drynan, 
+Naomi Clarke, 
+Michelle Van, 
+Paul Sunnucks, and 
+Rohan H. Clarke,
 (hereafter, 'the authors')
 
 
