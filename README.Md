@@ -13,7 +13,7 @@ Rohan H. Clarke,
 
 ### Contents
 
-These are the code and data files for "Estimates of wear rates in metal bird bands, with applications in survival and movement models for marked individuals", scheduled for publication in the December 2018 issue of [the Journal of Field Ornithology](https://onlinelibrary.wiley.com/journal/15579263).
+These are the code and data files for "Estimates of wear rates in metal bird bands, with applications in survival and movement models for marked individuals" in the December 2018 issue of [the Journal of Field Ornithology](https://onlinelibrary.wiley.com/journal/15579263). The full-text is available [here](https://doi.org/10.1111/jofo.12268).
 
 The R script mentioned in the body of the manuscript is "Archived R code for Band Wear Table v0.4.R". Some users have reported issues with this script file on Windows machines, so the script is also included as "Archived R code for Band Wear Table v0.4.txt"
 
